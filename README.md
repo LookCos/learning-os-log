@@ -40,6 +40,5 @@ Rust 的 shadowing 特性，不仅可以用于改变变量的值，还以用于�
 let num = "T-H-R-E-E";
 let num = 3;
 ```
-
 上述代码是可行的。
 
